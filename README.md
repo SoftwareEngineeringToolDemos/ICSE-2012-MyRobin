@@ -9,4 +9,4 @@ In this repository, for MyRobin you will find:
  - :x: Source code (not available)
  - :x: Executable tool (not available)
 
-This repository was constructed by Sumit K Tomer under the supervision of Emerson Murphy-Hill.
+This repository was constructed by [Sumit K Tomer] (https://github.com/sktomer) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
