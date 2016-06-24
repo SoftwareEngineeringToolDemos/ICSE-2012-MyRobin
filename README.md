@@ -11,9 +11,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for MyRobin you will find:
 
- - :x: Source code (not available)
- - :x: Original tool (not available)
- - :x: Virtual machine containing tool (not available)
-
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Sumit K Tomer] (https://github.com/sktomer) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
